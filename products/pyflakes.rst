@@ -23,10 +23,10 @@ Download
 ========
 
 * `0.5.0 Release <http://pypi.python.org/packages/source/p/pyflakes/pyflakes-0.5.0.tar.gz#md5=568dab27c42e5822787aa8a603898672>`_
-  (`Release Notes <http://bazaar.launchpad.net/~divmod-dev/divmod.org/trunk/view/2681.1.2/Pyflakes/NEWS.txt>`_)
+  (`Release Notes <http://bazaar.launchpad.net/~divmod-dev/pyflakes/trunk/revision/43/NEWS.txt>`_)
   or ``pip install pyflakes``
-* Trunk: ``bzr branch lp:divmod.org && cd divmod.org/PyFlakes``
-  (`Browse <http://bazaar.launchpad.net/~divmod-dev/divmod.org/trunk/view/head:/Pyflakes/>`_)
+* Trunk: ``bzr branch lp:pyflakes``
+  (`Browse <http://bazaar.launchpad.net/~divmod-dev/pyflakes/trunk/files>`_)
 
 Exits
 =====
