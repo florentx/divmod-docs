@@ -22,11 +22,11 @@ twice, or two different modules with the same name, and so on.
 Download
 ========
 
-* `0.5.0 Release <http://pypi.python.org/packages/source/p/pyflakes/pyflakes-0.5.0.tar.gz#md5=568dab27c42e5822787aa8a603898672>`_
-  (`Release Notes <http://bazaar.launchpad.net/~divmod-dev/pyflakes/trunk/revision/43/NEWS.txt>`_)
+* `0.6.1 Release <http://pypi.python.org/packages/source/p/pyflakes/pyflakes-0.6.1.tar.gz#md5=00debd2280b962e915dfee552a675915>`_
+  (`Release Notes <http://bazaar.launchpad.net/~pyflakes-dev/pyflakes/master/view/67/NEWS.txt>`_)
   or ``pip install pyflakes``
 * Trunk: ``bzr branch lp:pyflakes``
-  (`Browse <http://bazaar.launchpad.net/~divmod-dev/pyflakes/trunk/files>`_)
+  (`Browse <http://bazaar.launchpad.net/~pyflakes-dev/pyflakes/master/files>`_)
 
 Exits
 =====
